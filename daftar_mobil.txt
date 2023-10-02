@@ -3,5 +3,4 @@ daftar mobil favorit
   2. Toyota Celica GT4 ST185
   3. Ford GT40
   4. Mercedes Benz AMG GT
-  5. Ford Mustang
-  6. Porsche 963
+  5. Porsche 963
